@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049749910843",
+    "project_id": "tete-s-dictionary-app",
+    "storage_bucket": "tete-s-dictionary-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049749910843:android:36248d2e2a56b97605331e",
+        "android_client_info": {
+          "package_name": "com.tete.efikdictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049749910843-3gnsfjr3cbgvc0dbpiigcn3pjkh4ucsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJwEigzvUsmT8NoZcoEssbc9LFlrLW7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049749910843-3gnsfjr3cbgvc0dbpiigcn3pjkh4ucsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

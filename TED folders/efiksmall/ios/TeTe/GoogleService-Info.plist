@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1049749910843-c25pdtsbnjo1mf1e28v2e3tjv87bj0c7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1049749910843-c25pdtsbnjo1mf1e28v2e3tjv87bj0c7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1049749910843-65at2qnk875et936gmj6o1o8ogpummgu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCspfvvmxgpAZba-3661Wp2dM9HYClhSc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1049749910843</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tete.efikdictionary</string>
+	<key>PROJECT_ID</key>
+	<string>tete-s-dictionary-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tete-s-dictionary-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1049749910843:ios:1d5ab89cb621d80d05331e</string>
+</dict>
+</plist>
